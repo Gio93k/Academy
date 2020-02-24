@@ -1,0 +1,6 @@
+C:\Users\gioara.roberta.cuccu\source\repos\ProgettoAcademy\ProgettoAcademy\bin\Debug\ProgettoAcademy.exe.config
+C:\Users\gioara.roberta.cuccu\source\repos\ProgettoAcademy\ProgettoAcademy\bin\Debug\ProgettoAcademy.exe
+C:\Users\gioara.roberta.cuccu\source\repos\ProgettoAcademy\ProgettoAcademy\bin\Debug\ProgettoAcademy.pdb
+C:\Users\gioara.roberta.cuccu\source\repos\ProgettoAcademy\ProgettoAcademy\obj\Debug\ProgettoAcademy.csprojAssemblyReference.cache
+C:\Users\gioara.roberta.cuccu\source\repos\ProgettoAcademy\ProgettoAcademy\obj\Debug\ProgettoAcademy.exe
+C:\Users\gioara.roberta.cuccu\source\repos\ProgettoAcademy\ProgettoAcademy\obj\Debug\ProgettoAcademy.pdb
